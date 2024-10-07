@@ -98,8 +98,8 @@ Where `<value>` is the adjusted voltage from each channel.
 ## Acknowledgments
 - [Arduino](https://www.arduino.cc/)
 - [Matplotlib](https://matplotlib.org/)
-- [ADS1115 Library](https://github.com/your-library-link)
+- [ADS1115 Library](https://github.com/RobTillaart/ADS1X15)
   
 ---
 
-Enjoy experimenting with this versatile voltage measurement circuit! It's a simple yet powerful design that opens up countless possibilities for your projects. Happy tinkering and have fun exploring the world of voltage sensing!
+### Enjoy experimenting with this versatile voltage measurement circuit! It's a simple yet powerful design that opens up countless possibilities for your projects. Happy tinkering and have fun exploring the world of voltage sensing!
