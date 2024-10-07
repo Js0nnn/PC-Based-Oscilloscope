@@ -20,6 +20,7 @@ This repository contains the source code and instructions for a dual-channel PC-
 ### Hardware:
 - Arduino (Uno, Nano, or similar)
 - ADS1115 (ADC Module)
+- MCP6004 (Op-Amp)
 - Voltage divider and virtual ground setup (if needed)
 - Wires, breadboard, etc.
 
